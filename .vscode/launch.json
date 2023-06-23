@@ -5,7 +5,7 @@
             "name": "Launch Main",
             "type": "cppdbg",
             "request": "launch",
-            "program": "${workspaceFolder}/build/src/n30/n30",
+            "program": "${workspaceFolder}/build/src/n10/n10",
             "args": [],
             "stopAtEntry": false,
             "cwd": "${workspaceFolder}",

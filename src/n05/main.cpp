@@ -28,3 +28,5 @@ class Solution {
     return result;
   }
 };
+
+int main(int argc, char* argv[]) { return 0; }

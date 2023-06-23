@@ -2,4 +2,4 @@ set(SRC
     main.cpp
 )
 
-add_executable(n53 ${SRC})
+add_executable(n04 ${SRC})

@@ -15,3 +15,5 @@ class Solution {
     return ret;
   }
 };
+
+int main(int argc, char* argv[]) { return 0; }
